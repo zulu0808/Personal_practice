@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\local.admin\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\local.admin\\anaconda3\\python.exe",
+    "python.dataScience.textOutputLimit": 0
 }
