@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\local.admin\\anaconda3\\python.exe",
-    "python.dataScience.textOutputLimit": 0
+    "python.pythonPath": "C:\\Users\\local.admin\\anaconda3\\envs\\pyvizenv\\python.exe",
+    "jupyter.textOutputLimit": 0,
+    "jupyter.jupyterServerType": "local"
 }
